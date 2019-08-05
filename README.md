@@ -1,2 +1,2 @@
-# car_renatal_website
+# Car rental website 
 Web site front end developed using React
