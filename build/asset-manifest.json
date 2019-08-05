@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/~eyureva/hertz-uts/static/css/main.c91c8497.chunk.css",
+    "main.js": "/~eyureva/hertz-uts/static/js/main.c265b2d2.chunk.js",
+    "main.js.map": "/~eyureva/hertz-uts/static/js/main.c265b2d2.chunk.js.map",
+    "runtime~main.js": "/~eyureva/hertz-uts/static/js/runtime~main.4666c1ad.js",
+    "runtime~main.js.map": "/~eyureva/hertz-uts/static/js/runtime~main.4666c1ad.js.map",
+    "static/css/2.266e55a5.chunk.css": "/~eyureva/hertz-uts/static/css/2.266e55a5.chunk.css",
+    "static/js/2.59245b61.chunk.js": "/~eyureva/hertz-uts/static/js/2.59245b61.chunk.js",
+    "static/js/2.59245b61.chunk.js.map": "/~eyureva/hertz-uts/static/js/2.59245b61.chunk.js.map",
+    "index.html": "/~eyureva/hertz-uts/index.html",
+    "precache-manifest.05d033b74cbc256f21b938326ee48c27.js": "/~eyureva/hertz-uts/precache-manifest.05d033b74cbc256f21b938326ee48c27.js",
+    "service-worker.js": "/~eyureva/hertz-uts/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/~eyureva/hertz-uts/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.c91c8497.chunk.css.map": "/~eyureva/hertz-uts/static/css/main.c91c8497.chunk.css.map",
+    "static/media/logo.png": "/~eyureva/hertz-uts/static/media/logo.9f4467ac.png"
+  }
+}
